@@ -162,6 +162,7 @@ const members = [
     linkedin: "https://www.linkedin.com/in/mataladaffaalfaris/",
     github: "https://github.com/AtalaaDf",
     image: atala,
+    quote: "after all this time? always", 
   },
 ];
 
